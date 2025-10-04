@@ -55,7 +55,7 @@ shoppingCart/
 
 ### 🧩 Clone Repository
 ```bash
-git clone https://github.com/your-username/shoppingCart.git
+git clone https://github.com/vivekanjankc12345/shoppingCart.git
 cd shoppingCart
 ⚙️ Setup Backend
 bash
