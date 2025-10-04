@@ -52,16 +52,13 @@ shoppingCart/
 │ └── index.js
 └── package.json
 
-yaml
-Copy code
 
----
 
 ## 🚀 Getting Started
 
 ### 🧩 Clone the Repository
 ```bash
-git clone https://github.com/your-username/shoppingCart.git
+git clone https://github.com/vivekanjankc12345/shoppingCart.git
 cd shoppingCart
 ⚙️ Setup Backend
 bash
@@ -74,7 +71,7 @@ Server runs on: http://localhost:5000
 💻 Setup Frontend
 bash
 Copy code
-cd ../frontend
+cd ../frontend/myapp
 npm install
 npm run dev
 App runs on: http://localhost:3000
