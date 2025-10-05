@@ -83,7 +83,6 @@ bash
 Copy code
 cd backend
 npm test
-Example Jest test (product.test.js):
 
 🧠 Assumptions & Design Choices
 Cart data is stored in localStorage to persist after refresh.
@@ -96,8 +95,8 @@ API endpoints are kept minimal for demonstration purposes.
 
 Jest used only for backend API testing.
 
-Add your Loom video link here 👇
-📹 Demo Video: https://www.loom.com/share/your-demo-link
+Loom video link here 👇
+📹 Demo Video: https://www.loom.com/share/4d2ccafc93404c8b863dffd26a6e4f45?sid=4546c4c6-47bd-43d5-93c1-1395b439c037
 
 
 👨‍💻 Author
